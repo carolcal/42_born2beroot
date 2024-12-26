@@ -1,11 +1,11 @@
 # Born2beroot
 ## EN VERSION
 ### Description
-Born2beroot is a virtual machine project at 42 School, where we have to create a virtual machine using Virtual Box, install an operating system, and do a bunch of configurations. As I am not able to push a Virtual Machine to github, I am going to describe on this ReadMe things I learned in this process and a resume of everything you need for the evaluation
+Born2beroot is a virtual machine project at 42 School, where we have to create a virtual machine using Virtual Box, install an operating system, and do a bunch of configurations. As I am not able to push a Virtual Machine to github, I am going to describe on this ReadMe things I learned in this process and a resume of everything you need for the evaluation.
 
 ## PT-BR VERSION
 ### Descrição
-Born2beroot é um projeto de máquina virtual da Escola 42, no qual
+Born2beroot é um projeto de máquina virtual da Escola 42, cujo objetivo é criar uma máquina virtual usando Virtual Box, instalar um sistema operacional e fazer algumas outras connfigurações. Como não consigo colocar uma máquina Virtual no github, irei colocar neste ReadMe coisas que aprendi neste processo e um resumo do que é preciso saber para a avaliação.
 ### Project Overview
 #### 1. Compare Signature.txt to .vdi
 Para enviar seu projeto, você precisa gerar uma assinatura por meio do comando `shasum VirtualBox.vdi` o qual deverá ser executado no terminal na pasta onde seu vdi está presente (fora da Máquina Virtual).   
